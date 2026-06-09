@@ -249,9 +249,8 @@ learn_git/
 ## 👤 Author
 
 **Nourhen Riahi**  
-📧 nourhenriahi11@gmail.com  
-🐙 [@nourhenriahii](https://github.com/nourhenriahii)
+  
 
 ---
 
-*Checkpoint project — GoMyCode Git & GitHub Module* 🎓
+*Checkpoint project — Git & GitHub Module* 🎓
